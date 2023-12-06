@@ -27,12 +27,14 @@ footer{
   width:900px;
   height:150px;
 }
-header h1{
-  padding:20px 5px 5px 5px;
+header h1, header a{
+  padding:10px 5px 5px 5px;
   color:#ffffff;
-  font-size:30pt;
+  font-size:42px;
   font-family:Impact;
   font-weight:normal;
+  color:black;
+  text-decoration:none;
 }
 #contact{
   background-color:#cccccc;
@@ -40,7 +42,7 @@ header h1{
 }
 nav a{
   font-family:Impact;
-  font-size:15pt;
+  font-size:22px;
   font-weight:bold;
   color:black;
   text-decoration:none;
@@ -52,6 +54,7 @@ nav a{
 }
 nav a:hover{
   background-color:white;
+  font-size:18px;
 }
 img{
   display:block;
@@ -65,12 +68,12 @@ p{
 #bigimage p{
   color:#00c9fd;
   background-color:#ffffff;
-  font-size:12pt;
+  font-size:12px;
 }
 article h1{
   padding:10px;
   font-family:Impact;
-  font-size:25pt;
+  font-size:25px;
   text-align:center;
 }
 article{
