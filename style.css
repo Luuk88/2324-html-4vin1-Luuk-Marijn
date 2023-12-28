@@ -86,20 +86,22 @@ article img{
   float:right;
   margin:20px;
 }
+
 p a{
   font-weight:bold;
   color:#00c9fd;
   text-decoration:none;
-}
-p a:hover{
-  font-size:110%;
+  font-size:15px;
   color:black;
 }
+p a:hover{
+  text-decoration: underline;
+}
+
 footer p{
   color:white;
 }
 
-/* Add a grey background color to the top navigation bar */
 #topnav {
   overflow: hidden;
   background-color: #cccccc;
@@ -109,7 +111,6 @@ footer p{
   width:120px;
 }
 
-/* Style the links inside the navigation bar */
 #topnav a {
   color: black;
   padding: 10px 12px;
@@ -130,14 +131,11 @@ footer p{
   background-color:white;
 }
 
-/* Change the color of links on hover */
 #topnav a.active {
   background-color: #00c9fd;
   color: white;
 }
 
-
-/* Style the search box inside the navigation bar */
 #topnav input[type=text] {
   float: right;
   padding: 6px;
