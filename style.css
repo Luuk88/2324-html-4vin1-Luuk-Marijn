@@ -167,9 +167,23 @@ td.nameDescr {
   text-align: center;
   font-size: 18px;
 }
-
-
+ 
 td.img img {
-  width: 180px;
-  display: inline-block;
+  width: 350px;
+  margin: 5px 25px;
 }
+
+p.BTT {
+  text-align: right;
+}
+
+p.BTT a{
+  color: white;
+}
+
+table.media tr td a img {
+  height: 40px;
+}
+
+table.media {
+margin: 5px 320px;}
