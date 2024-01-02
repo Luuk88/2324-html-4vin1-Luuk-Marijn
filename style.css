@@ -39,10 +39,7 @@ header h1, header a{
   text-decoration:none;
   text-align: center;
 }
-#contact{
-  background-color:#cccccc;
-  width:900px;
-}
+
 nav a{
   font-family:Impact;
   font-size:18px;
@@ -87,14 +84,11 @@ article img{
   margin:20px;
 }
 
-p a{
-  font-weight:bold;
-  color:#00c9fd;
+p a, ul a{
   text-decoration:none;
-  font-size:15px;
   color:black;
 }
-p a:hover{
+p a:hover, ul a:hover{
   text-decoration: underline;
 }
 
@@ -146,3 +140,36 @@ footer p{
   text-align: center;
 }
   
+ul.dashed {
+  list-style-type: none;
+  font-size: 16px;
+}
+ul.dashed > li {
+  text-indent: -5px;
+}
+ul.dashed > li:before {
+  content: "- ";
+  text-indent: -5px;
+}
+
+table.team {
+  width: 900px;
+  float: center;
+}
+
+td.bigName {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+td.nameDescr {
+  text-align: center;
+  font-size: 18px;
+}
+
+
+td.img img {
+  width: 180px;
+  display: inline-block;
+}
