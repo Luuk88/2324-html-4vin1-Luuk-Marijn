@@ -168,7 +168,7 @@ td.nameDescr {
   font-size: 18px;
 }
  
-td.img img {
+td.pfp img {
   width: 350px;
   margin: 5px 25px;
 }
@@ -187,3 +187,31 @@ table.media tr td a img {
 
 table.media {
 margin: 5px 320px;}
+
+
+
+table.nieuwsItems, table.innovatieItems {
+  width: 900px;
+  float: center;
+}
+
+td.NI_header, td.II_header {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+td.NI_paragraph, td.II_paragraph {
+  text-align: center;
+  font-size: 12px;
+}
+ 
+td.NI_img img, td.II_img img {
+  width: 200px;
+  margin: 5px 25px;
+}
+
+#smallPrint{
+  font-size: 8px;
+  width: 550px;
+}
