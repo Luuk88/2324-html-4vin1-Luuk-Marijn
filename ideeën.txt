@@ -14,3 +14,11 @@ Kleuren
 - Mogelijke Accentkleuren
     - goud #ffd700
     - mint #3eb489
+
+
+
+Algemeen:
+- zoekbalk weg (tijd niet waard denk ik)
+
+- https://example.com/ voor links dienergens heen 
+    gaan maar waar je wel een link wil hebben.
