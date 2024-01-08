@@ -241,6 +241,6 @@ ul {
   list-style-image: "lock.png";
 }
 
-images/lock.png {
+ul img {
   size: 8px;
 }
