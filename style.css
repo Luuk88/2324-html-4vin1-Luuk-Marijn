@@ -239,5 +239,5 @@ p.copyright{
 
 ul.lock.png {
   list-style-image: "lock.png";
-  
+  border-image-width: left;
 }
