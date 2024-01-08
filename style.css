@@ -238,9 +238,9 @@ p.copyright{
 }
 
 ul.disced {
-
+  list-style-type: disc;
 }
 
 ul.disced > li {
-  list-style-type: disc;
+  text-indent: -5px;
 }
