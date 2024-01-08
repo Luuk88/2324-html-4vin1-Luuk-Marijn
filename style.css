@@ -237,7 +237,10 @@ p.copyright{
   color: lightblue;
 }
 
-ul.lock.png {
+ul {
   list-style-image: "lock.png";
-  border-image-width: left;
+}
+
+lock.png {
+  size: 8px;
 }
