@@ -236,3 +236,7 @@ p.copyright{
   text-align: center;
   color: lightblue;
 }
+
+ul {
+  list-style-image: url("lock.png");
+}
