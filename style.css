@@ -237,6 +237,6 @@ p.copyright{
   color: lightblue;
 }
 
-ul {
+ul.image {
   list-style-image: url("lock.png");
 }
