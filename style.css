@@ -239,9 +239,5 @@ p.copyright{
 
 ul {
   list-style-image: "lock.png";
-}
-
-ul img, lock.png {
-  size: 4cm;
-  position: left;
+  size: 10px;
 }
