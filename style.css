@@ -239,6 +239,7 @@ p.copyright{
 
 ul.disced {
   list-style-type: disc;
+  list-style: #183573;
 }
 
 ul.disced > li {
