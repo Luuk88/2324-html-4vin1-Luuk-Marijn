@@ -237,7 +237,7 @@ p.copyright{
   color: lightblue;
 }
 
-ul {
+ul.lock.png {
   list-style-image: "lock.png";
-  image-orientation: 8px;
+  
 }
