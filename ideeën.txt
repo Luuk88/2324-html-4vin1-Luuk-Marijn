@@ -20,5 +20,5 @@ Kleuren
 Algemeen:
 - zoekbalk weg (tijd niet waard denk ik)
 
-- https://example.com/ voor links dienergens heen 
+- https://example.com/ voor links die nergens heen 
     gaan maar waar je wel een link wil hebben.
