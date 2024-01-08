@@ -3,6 +3,10 @@
    scroll-behavior: smooth;
 }
 
+a:hover {
+  cursor: pointer;
+}
+
 body{
   font-family:Verdana;
   font-size:14px;
@@ -72,6 +76,10 @@ nav a{
   width:160px;
   height:40px;
   line-height:40px;
+}
+
+nav a.wide {
+  width: 210px;
 }
 
 nav a:hover{

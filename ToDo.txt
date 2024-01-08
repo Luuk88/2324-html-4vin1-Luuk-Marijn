@@ -6,7 +6,6 @@ Mogelijke bedrijfsnamen?
 - AntiAanval
 
 
-
 Kleuren
 - Basis:
     - Wit/lichtgrijs, Donkerblauw/zwart
@@ -16,9 +15,17 @@ Kleuren
     - mint #3eb489
 
 
-
 Algemeen:
-- zoekbalk weg (tijd niet waard denk ik)
+- zoekbalk !!!
 
 - https://example.com/ voor links die nergens heen 
     gaan maar waar je wel een link wil hebben.
+
+- lettertypes !!!
+
+- headers groter enzo
+
+
+Voor ACTUEEL:
+- nieuwsItems fixen (table in een table 
+    misschien, of 3 aparte tables?)
