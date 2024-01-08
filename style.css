@@ -239,4 +239,5 @@ p.copyright{
 
 ul {
   list-style-image: "lock.png";
+  size: 8px;
 }
