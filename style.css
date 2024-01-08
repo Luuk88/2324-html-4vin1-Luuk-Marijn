@@ -235,6 +235,7 @@ td.NI_img img, td.II_img img {
 p.copyright{
   text-align: center;
   color: rgb(31, 101, 145);
+  text-color: white;
 }
 
 ul.disced {
