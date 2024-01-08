@@ -238,5 +238,6 @@ p.copyright{
 }
 
 ul {
-  list-style-image: "lock.png";
+  list-style-type: "lock.png";
   size: 10px;
+}
