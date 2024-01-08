@@ -238,5 +238,5 @@ p.copyright{
 }
 
 ul {
-  list-style-image: url("lock.png");
+  list-style-image: "lock.png";
 }
