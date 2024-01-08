@@ -238,5 +238,6 @@ p.copyright{
 }
 
 ul.disced > li {
-  list-style-type: disc;
+  list-style-image: disc;
+  color: #183573; 
 }
