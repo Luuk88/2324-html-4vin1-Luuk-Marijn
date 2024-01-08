@@ -239,5 +239,7 @@ p.copyright{
 
 ul.disced > li {
   list-style-image: disc;
-  color: #183573; 
+  text-decoration: black;
+  disc-decoration: #183573
+  
 }
