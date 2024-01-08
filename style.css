@@ -237,6 +237,6 @@ p.copyright{
   color: lightblue;
 }
 
-ul.style {
+ul.disced > li {
   list-style-type: disc;
 }
