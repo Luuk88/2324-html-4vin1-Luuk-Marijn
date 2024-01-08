@@ -237,9 +237,10 @@ p.copyright{
   color: rgb(31, 101, 145);
 }
 
+ul.disced {
+
+}
+
 ul.disced > li {
-  list-style-image: disc;
-  text-decoration: black;
-  disc-decoration: #183573
-  
+  list-style-type: disc;
 }
