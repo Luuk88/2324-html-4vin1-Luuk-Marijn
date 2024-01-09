@@ -5,6 +5,7 @@ Mogelijke bedrijfsnamen?
 - Safe(Inter)Net
 - AntiAanval
 
+- LOGO!!!
 
 Kleuren
 - Basis:
@@ -18,8 +19,7 @@ Kleuren
 Algemeen:
 - zoekbalk !!!
 
-- https://example.com/ voor links die nergens heen 
-    gaan maar waar je wel een link wil hebben.
+- <a onclick="alert('TEKST');"></a>
 
 - lettertypes !!!
 
