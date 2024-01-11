@@ -179,7 +179,6 @@ ul.dashed > li:before {
 
 table.team {
   width: 900px;
-  float: center;
 }
 
 td.bigName {
@@ -216,7 +215,6 @@ margin: 5px 320px;
 
 table.nieuwsItems, table.innovatieItems {
   width: 900px;
-  float: center;
 }
 
 td.NI_header, td.II_header {
