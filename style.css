@@ -66,7 +66,7 @@ header h1, header a{
 }
 
 nav a{
-  font-family: Impact;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
   font-size:18px;
   font-weight:bold;
   color:black;
