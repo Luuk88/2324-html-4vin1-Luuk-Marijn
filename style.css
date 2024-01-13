@@ -267,16 +267,18 @@ h4 {
   height:100%;
   float:center;
   border:5px;
+  border-radius:25px;
   border-style:outset;
   border-color:#00c9fd;
 }
 
 #update img {
-  width:50%;
-  height:50%;
+  width:55%;
+  height:55%;
   float:center;
   margin:auto;
   border: 5px;
+  border-radius:50%;
   border-style:outset;
   border-color:#ffae00;
 }
