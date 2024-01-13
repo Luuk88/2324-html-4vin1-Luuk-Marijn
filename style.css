@@ -262,8 +262,8 @@ h4 {
   margin-left: 20px;
 }
 
-#previmg1.png img {
-  width:25%;
-  height:25%;
-  float:right;
+#training img {
+  width:100%;
+  height:100%;
+  float: center;
 }
