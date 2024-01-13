@@ -310,3 +310,12 @@ h4 {
   margin-left:20px;
   margin-bottom:5px;
 }
+
+a.linkInParagraph {
+  color: blue;
+}
+
+a.linkInParagraph:visited{
+  color: blue; 
+  /*nog steeds blauw maar ja dat dus*/
+}
