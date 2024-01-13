@@ -262,9 +262,8 @@ h4 {
   margin-left: 20px;
 }
 
-td.imageprev1 {
-  width: 75%;
-  height:75%;
+#previmg1.png img {
+  width:25%;
+  height:25%;
   float:right;
-  margin:auto;
 }
