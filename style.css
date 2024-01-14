@@ -324,3 +324,8 @@ a.bron:visited{
 table.nieuwsItems td{
   vertical-align: top;
 }
+
+#previmg img {
+  width:35%;
+  height:35%;
+}
