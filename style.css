@@ -230,6 +230,7 @@ td.NI_paragraph, td.II_paragraph {
  
 td.NI_img img, td.II_img img {
   width: 290px;
+  height: 170px;
   margin: 15px 0px;
 }
 
