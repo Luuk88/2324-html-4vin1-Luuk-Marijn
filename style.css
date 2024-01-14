@@ -347,4 +347,5 @@ hr.rounded {
   border-radius:5px;
   width:800px;
   margin-left:50px;
+  outline-style:outset;
 }
