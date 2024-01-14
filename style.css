@@ -15,12 +15,32 @@ body{
 header{
   background-color:#183573;
   width:900px;
+  height: 80px;
 }
+
+header a{
+  padding:18px 5px 5px 5px;
+  color:#ffffff;
+  font-size:42px;
+  font-family: Impact;
+  font-weight:normal;
+  text-decoration:none;
+  text-align: left;
+  display: block;
+}
+
+#headerLogo{
+  height: 45px; 
+  display: block; 
+  float: left;
+  margin: 2px 5px 0px 290px;
+}
+
 
 #wrapper{
   width:900px;
   margin:auto;
-  background-color:#ffae00;;
+  background-color:#c8c8c8;;
   ;
 }
 
@@ -53,16 +73,6 @@ footer{
 
 footer p{
   color:white;
-}
-
-header h1, header a{
-  padding:10px 5px 5px 5px;
-  color:#ffffff;
-  font-size:42px;
-  font-family: Impact;
-  font-weight:normal;
-  text-decoration:none;
-  text-align: center;
 }
 
 nav a{
@@ -309,4 +319,8 @@ a.bron{
 
 a.bron:visited{
   color: purple; 
+}
+
+table.nieuwsItems td{
+  vertical-align: top;
 }
