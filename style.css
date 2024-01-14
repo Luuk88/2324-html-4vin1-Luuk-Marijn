@@ -326,7 +326,8 @@ a.bron:visited{
   color: purple; 
 }
 
-table.nieuwsItems td{
+table.nieuwsItems td, 
+table.innovatieItems td{
   vertical-align: top;
 }
 
