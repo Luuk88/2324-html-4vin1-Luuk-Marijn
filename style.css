@@ -255,7 +255,6 @@ h4 {
 #training img {
   width:100%;
   height:100%;
-  float:center;
   border:5px;
   border-radius:25px;
   border-style:outset;
@@ -265,7 +264,6 @@ h4 {
 #update img {
   width:55%;
   height:55%;
-  float:center;
   border: 5px;
   border-radius:50%;
   border-style:outset;
@@ -275,7 +273,6 @@ h4 {
 #endpoint img {
   width:100%;
   height:100%;
-  float:center;
   border:5px;
   border-radius:20px;
   border-style:none;
@@ -284,7 +281,6 @@ h4 {
 #firewall img {
   width:35%;
   height:35%;
-  float:center;
   border:3px;
   border-radius:15px;
   border-style:outset;
@@ -304,7 +300,6 @@ h4 {
 #account img {
   width:100%;
   height:100%;
-  float:center;
   border-radius:12px;
 }
 
