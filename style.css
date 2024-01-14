@@ -135,8 +135,12 @@ p a:hover, ul a:hover{
   background-color: #c8c8c8;
 }
 
+#topnav a.BM{
+  width: 160px;
+}
+
 #topnav a.OW{
-  width:130px;
+  width:135px;
 }
 
 #topnav a {
