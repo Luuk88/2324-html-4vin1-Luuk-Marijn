@@ -79,7 +79,7 @@ nav a{
 }
 
 nav a.wide {
-  width: 260px;
+  width: 275px;
 }
 
 nav a:hover{
@@ -162,20 +162,6 @@ p a:hover, ul a:hover{
   font-size: 13px;
   text-align: center;
 }
-  
-ul.dashed {
-  list-style-type: none;
-  font-size: 16px;
-}
-
-ul.dashed > li {
-  text-indent: -5px;
-}
-
-ul.dashed > li:before {
-  content: "- ";
-  text-indent: -5px;
-}
 
 table.team {
   width: 900px;
@@ -195,6 +181,10 @@ td.nameDescr {
 td.pfp img {
   width: 230px;
   margin: 5px 85px;
+}
+
+a.linkInParagraph{
+  color: blue;
 }
 
 p.BTT {
@@ -254,7 +244,7 @@ ul.disced {
 }
 
 ul.disced > li {
-  text-indent: -5px;
+  text-indent: 5px;
 }
 
 h4 {
@@ -318,11 +308,10 @@ h4 {
   border-radius:12px;
 }
 
-a.linkInParagraph {
-  color: blue;
+a.bron{
+  color: blue; 
 }
 
-a.linkInParagraph:visited{
-  color: blue; 
-  /*nog steeds blauw maar ja dat dus*/
+a.bron:visited{
+  color: purple; 
 }

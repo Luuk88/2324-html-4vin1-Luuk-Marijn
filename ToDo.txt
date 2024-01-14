@@ -1,22 +1,4 @@
-Mogelijke bedrijfsnamen?
-- Veilig Online
-- CyberSecure
-- CyberSafe
-- Safe(Inter)Net
-- AntiAanval
 
-- LOGO!!!
-
-Kleuren
-- Basis:
-    - Wit/lichtgrijs, Donkerblauw/zwart
-
-- Mogelijke Accentkleuren
-    - goud #ffd700
-    - mint #3eb489
-
-
-Algemeen:
 - zoekbalk !!!
 
 - <a onclick="alert('TEKST');"></a>
@@ -25,7 +7,4 @@ Algemeen:
 
 - headers groter enzo
 
-
-Voor ACTUEEL:
-- nieuwsItems fixen (table in een table 
-    misschien, of 3 aparte tables?)
+- bronnen
